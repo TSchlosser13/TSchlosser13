@@ -3,11 +3,6 @@
 Hi, folks! 👋
 =============
 
-<a href="https://github.com/TSchlosser13">
-	<img align="center" src="https://readme-stats-fast.vercel.app/api?username=TSchlosser13&theme=vue&show_icons=true" />
-</a>
-<a href="https://github.com/TSchlosser13">
-	<img align="center" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=TSchlosser13&theme=vue&layout=compact&langs_count=6&exclude_repo=UOCTE&hide=HTML,TeX,BibTeX%20Style" />
-</a>
-
+<a href="https://github.com/TSchlosser13"><img align="center" src="https://readme-stats-fast.vercel.app/api?username=TSchlosser13&theme=vue&show_icons=true" /></a>
+<a href="https://github.com/TSchlosser13"><img align="center" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=TSchlosser13&theme=vue&layout=compact&langs_count=6&exclude_repo=UOCTE&hide=HTML,TeX,BibTeX%20Style" /></a>
 
